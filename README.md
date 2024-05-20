@@ -16,7 +16,7 @@
 - ⚡ Fun fact **Once debugged a program by staring at the code until it felt guilty and fixed itself.**
 
   <p>
-<img src= "https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" alt= "well there should a gif here"  width="500" height="500"/>
+<img src= "https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" alt= "well there should a gif here"  width="250" height="250"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
