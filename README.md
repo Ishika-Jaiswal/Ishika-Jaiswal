@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishika-jaiswal" alt="ishika-jaiswal" /></a> </p>
 
-- 🔭 I’m currently working on **Sign-Language Recognition Model**
-
 - 🌱 I’m currently learning **DSA, MERN and Network Security**
 
 - 👨‍💻 I’m currently working as **a Security Operations Intern at @PwC**
